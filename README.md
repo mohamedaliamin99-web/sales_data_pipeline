@@ -5,6 +5,7 @@ This project delivers a production-ready **Data Engineering pipeline** that tran
 The pipeline implements best practices in **modern data stack design**, including structured data modeling (star schema), automated scheduling, and end-to-end reproducibility. Ideal for both local development and cloud migration readiness.
 
 
+
 ---
 
 ## 🚀 Project Overview
